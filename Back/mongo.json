@@ -1,0 +1,30 @@
+[
+    {
+      "titulo": "The Avengers: Os Vingadores",
+      "capa": "http://guiadecompras.casasbahia.com.br/imagens/2012/09/os-vingadores-filme-1.jpg",
+      "genero": "Aventura",
+      "nota": 10,
+      "sinopse": "Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes. Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade."
+    },
+    {
+       "titulo": "Vingadores: Era de Ultron",
+       "capa": "https://a-static.mlcdn.com.br/1500x1500/dvd-vingadores-era-de-ultron-marvel/milesimo/539743149/a1a1f318684c6d01e636b1abb1357d00.jpg",
+       "genero": "Aventura",
+       "nota": 10,
+       "sinopse": "Ao tentar proteger o planeta de ameaças, Tony Stark constrói um sistema de inteligência artificial que cuidaria da paz mundial. O projeto acaba dando errado e gera o nascimento do Ultron. Com o destino da Terra em jogo, Capitão América, Homem de Ferro, Thor, Hulk, Viúva Negra e Gavião Arqueiro terão que se unir para mais uma vez salvar a raça humana da extinção."
+    },
+    {
+       "titulo": "The Avengers: Guerra Infinita",
+       "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/Avengers_Infinity_War.jpg/250px-Avengers_Infinity_War.jpg",
+       "genero": "Aventura",
+       "nota": 10,
+       "sinopse": "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade."
+    },
+    {
+    "titulo": "The Avengers: Ultimato",
+    "capa": "hhttps://tecnoblog.net/meiobit/wp-content/uploads/2019/04/20190424avengers-endgame-001a.jpg",
+    "genero": "Aventura",
+    "nota": 10,
+    "sinopse": "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco."
+    }
+  ]
